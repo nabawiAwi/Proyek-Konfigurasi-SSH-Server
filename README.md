@@ -1,7 +1,7 @@
 # Proyek Konfigurasi SSH Server
 
 ## 📌 Ringkasan Proyek
-Proyek ini merupakan submission untuk kelas **Belajar Administrasi Server** di Dicoding. Dalam proyek ini, saya mengonfigurasi **SSH Server** pada sistem operasi Linux untuk memungkinkan remote login yang aman, sesuai dengan ketentuan yang diberikan.
+Dalam proyek ini, saya mengonfigurasi **SSH Server** pada sistem operasi Linux untuk memungkinkan remote login yang aman, sesuai dengan ketentuan yang diberikan.
 
 ## ✅ Kriteria yang Dipenuhi
 - **Membuat user baru** dengan spesifikasi:
@@ -33,10 +33,6 @@ Proyek ini merupakan submission untuk kelas **Belajar Administrasi Server** di D
 ## 📂 Berkas Pengerjaan
 - **daftar-user.txt** (Daftar user dalam sistem)
 - **log-ssh.txt** (Entri log terkait SSH)
-- **log-ssh.json** (Entri log SSH dalam format JSON) *(Opsional)*
-- **daftar-user.txt.gpg** (Hasil enkripsi daftar user) *(Opsional)*
-- **hapus-log.sh** (Script untuk mengelola log SSH) *(Opsional)*
-
----
-
-💡 *Repository ini merupakan bagian dari portofolio saya dalam mempelajari administrasi server dan keamanan jaringan menggunakan SSH.*
+- **log-ssh.json** (Entri log SSH dalam format JSON) 
+- **sshd_config.txt** (Berkas konfigurasi SSH) 
+- **hapus-log.sh** (Script untuk mengelola log SSH) 
